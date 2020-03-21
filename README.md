@@ -1,2 +1,2 @@
 # PyCartogram
-Produce Cartograms in Python with Shapely, Geopandas and numpy.
+Produce Cartograms in Python with shapely, geopandas and numpy.
