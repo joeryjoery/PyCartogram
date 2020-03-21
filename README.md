@@ -1,5 +1,5 @@
 # PyCartogram
-Produce area equalizing contiguous cartograms in Python with shapely, geopandas and numpy.
+Produce area equalizing contiguous cartograms by (James A. Dougenik et al., 1985) in Python with shapely, geopandas and numpy.
 
 Based on the R code by sjewo, available at: https://github.com/sjewo/cartogram
 
